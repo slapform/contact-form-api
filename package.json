@@ -1,0 +1,26 @@
+{
+  "name": "slapform-contact-form-api",
+  "version": "1.0.0",
+  "description": "Contact Form API a simple API to collect and email contact form submissions from any site",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "contact-form",
+    "form-api",
+    "forms",
+    "form-handler",
+    "email",
+    "webhooks",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Slapform",
+  "license": "ISC",
+  "homepage": "https://slapform.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slapform/contact-form-api.git"
+  }
+}
